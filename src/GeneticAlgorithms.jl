@@ -79,5 +79,5 @@ function optimize(
 end
 
 
-export optimize, Crossover, Selection
+export optimize, Crossover, Selection, timesTwo
 end
