@@ -10,5 +10,5 @@ Documentation for [GeneticAlgorithms](https://github.com/Daniel1402/GeneticAlgor
 ```
 
 ```@autodocs
-Modules = [GeneticAlgorithms, GeneticAlgorithms.PopulationInitialization]
+Modules = [GeneticAlgorithms, GeneticAlgorithms.PopulationInitialization, GeneticAlgorithms.Mutation]
 ```
